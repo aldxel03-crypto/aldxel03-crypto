@@ -9,7 +9,7 @@
 ✍️ &nbsp;
 💬 &nbsp;
 ✉️ &nbsp;mi correo es aldxel03@gmail.com .\
-📄 &nbsp;Consulta mi [Currículum] 
+📄 &nbsp;Consulta mi [Currículum] www.linkedin.com/in/sergio-valenzuela-gutierrez.\
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
